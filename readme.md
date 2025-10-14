@@ -1,7 +1,5 @@
 # Calculadora con Vanilla JavaScript
 
-![Calculadora](https://via.placeholder.com/150) <!-- Cambia por una captura de pantalla real si tienes una -->
-
 Este proyecto es una calculadora básica desarrollada con **HTML**, **CSS** y **JavaScript (Vanilla)**. Permite realizar operaciones aritméticas simples como suma, resta, multiplicación y división.
 
 
