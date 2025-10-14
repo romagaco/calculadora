@@ -15,16 +15,6 @@ La calculadora tiene una interfaz sencilla con un campo de entrada (`input`) que
 - Diseño simple y funcional con CSS personalizado.
 - Entrada de números y operadores a través de botones.
 
-## Estructura del Proyecto
-
-calculadora-vanilla-js/
-├── index.html       # Estructura HTML de la calculadora
-├── styles.css       # Estilos CSS para la interfaz
-├── index.js         # Lógica en JavaScript para las operaciones
-└── favicon.ico      # Icono de la página
-
-
-
 ### Archivos Principales
 - **`index.html`**: Contiene la estructura de la calculadora, con un campo de entrada (`<input id="display">`) y botones para dígitos y operadores.
 - **`styles.css`**: Define los estilos de la calculadora, como la disposición de los botones y el diseño del campo de entrada.
@@ -43,3 +33,6 @@ calculadora-vanilla-js/
 1. Clona o descarga este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/calculadora-vanilla-js.git
+
+
+## IMPORTANTE: eval() te permite ejecutar un string como si fuera código java script. Es una herramienta interesante de usar pero es una brecha de seguridad. la usamos para practicar js pero no se recomienda su uso bajo ningún caso en código de producción 
