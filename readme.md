@@ -30,7 +30,7 @@ La calculadora tiene una interfaz sencilla con un campo de entrada (`input`) que
 ## Instalación
 1. Clona o descarga este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/calculadora-vanilla-js.git
+   git clone https://github.com/romagaco/calculadora
 
 
 ## IMPORTANTE: eval() te permite ejecutar un string como si fuera código java script. Es una herramienta interesante de usar pero es una brecha de seguridad. la usamos para practicar js pero no se recomienda su uso bajo ningún caso en código de producción 
